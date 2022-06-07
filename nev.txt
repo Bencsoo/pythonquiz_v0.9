@@ -1,0 +1,118 @@
+AZTA 7pont
+Bencso	5pont
+asgangao	4pont
+gnioagnujiaga	6pont
+kga	1pont
+teszter már megint bazzeg	7pont
+teimtaefa	9pont
+danjikdajknjkffjkafnjka	bcící	8pont
+teszter csak momdom	7pont
+fsfsjninfs	7pont
+fufbaiufabifafafa teszet	5pont
+foabnfoanteszet	4pont
+ioanjfgouianfgoateszt	2pont
+sífvnmjsícvís	3pont
+teszetereomtgaeopkgmae	5pont
+teszter6.6.0	3pont
+adoőamda	1pont
+dada	1pont
+FOIKABHFGIUOANFGUAGUAGA	1pont
+TESZETE3433	1pont
+adada	4pont
+teszzzzz	1pont
+DADAD	10pont
+DADADaaa	15pont
+AZTA 7pont
+Bencso	5pont
+asgangao	4pont
+gnioagnujiaga	6pont
+kga	1pont
+teszter már megint bazzeg	7pont
+teimtaefa	9pont
+danjikdajknjkffjkafnjka	bcící	8pont
+teszter csak momdom	7pont
+fsfsjninfs	7pont
+fufbaiufabifafafa teszet	5pont
+foabnfoanteszet	4pont
+ioanjfgouianfgoateszt	2pont
+sífvnmjsícvís	3pont
+teszetereomtgaeopkgmae	5pont
+teszter6.6.0	3pont
+adoőamda	1pont
+dada	1pont
+FOIKABHFGIUOANFGUAGUAGA	1pont
+TESZETE3433	1pont
+adada	4pont
+teszzzzz	1pont
+DADAD	10pont
+DADADaaa	15pont
+AZTA 7pont
+Bencso	5pont
+asgangao	4pont
+gnioagnujiaga	6pont
+kga	1pont
+teszter már megint bazzeg	7pont
+teimtaefa	9pont
+danjikdajknjkffjkafnjka	bcící	8pont
+teszter csak momdom	7pont
+fsfsjninfs	7pont
+fufbaiufabifafafa teszet	5pont
+foabnfoanteszet	4pont
+ioanjfgouianfgoateszt	2pont
+sífvnmjsícvís	3pont
+teszetereomtgaeopkgmae	5pont
+teszter6.6.0	3pont
+adoőamda	1pont
+dada	1pont
+FOIKABHFGIUOANFGUAGUAGA	1pont
+TESZETE3433	1pont
+adada	4pont
+teszzzzz	1pont
+DADAD	10pont
+DADADaaa	15pont
+TESTTTTTTT1002	6pont
+TEST1004220531	5pont
+TESTERETTESTERTESTER	4pont
+SZIA	ize	5pont
+tester_10	1pont
+izémeg.-.-..	4pont
+azta	1pont
+AZTA	1pont
+AZTAAAAA	1pont
+Idoteszter	IDOTESZTER20	1pont
+IDOTESZZTTT	1pont
+TESZETEEEERRRRRRR1000	1pont
+IDŐTESZZZTTTTT	2pont
+időtesztelő2	5pont
+AZTAAAAAA	5pont   24 ms
+TESZTIDŐ	4pont	23 ms
+IDPTFOFJOIANFIOAFA	4pont	23 ms
+teszidőőőő	4pont	22 ms
+időtartalomtesztelőgép	4 pont	61 ms
+idiadiadia	idiada	I	5 pont	23 ms
+['3 1'] pont	13 ms
+TESTER vs TESTER2	['4 , 3'] pont	14 ms
+TESTP1 vs TESTP2	['4 , 3'] pont	17 ms
+TESTPLAYER1	['4'] pont	7 ms
+BEEEE vs BAAAA	3 , 3 pont	14 ms
+beeebaaa	4 pont	7 ms
+P1NAME	4 pont	7 ms
+PONENAME vs PLTWONAME	5 , 5 pont	27 ms
+I vs I	0 , 0 pont	11 ms
+Player 1 vs Player 2	3 , 4 pont	18 ms
+playerrrr vs playerrr	4 , 3 pont	15 ms
+NÉV	4 pont	6 ms
+PLAYER vs PLAYERR	4 , 3 pont	10 ms
+Névplayer1	3 pont	5 ms
+KEVEREM vs KEVEREM	4 , 3 pont	12 ms
+TESTTTTTT	3 pont	5 ms
+PRINTTTT	3 pont	5 ms
+DA	3 pont	4 ms
+ADAA	IDŐ	3 pont	4 ms
+idd	4 pont	4 ms
+PLAER vs PLRER	ida	3 pont	8.514697551727295 ms
+pl vs pl2	3 , 4 pont	7.45628023147583 ms
+iad vs diada	3 , 3 pont	5 , 114 ms
+PLAYER 1 vs PLAYER 2	3 , 2 pont	4 , 5 ms
+ŐÉA vs ADA	2 , 4 pont	6 , 18 ms
+dada	4 pont	5 ms
