@@ -11,8 +11,8 @@ PRINTTTT	3 pont	5 ms
 DA	3 pont	4 ms
 ADAA	IDŐ	3 pont	4 ms
 idd	4 pont	4 ms
-PLAER vs PLRER	ida	3 pont	8.514697551727295 ms
-pl vs pl2	3 , 4 pont	7.45628023147583 ms
+PLAER vs PLRER	ida	3 pont	8 ms
+pl vs pl2	3 , 4 pont	7 ms
 iad vs diada	3 , 3 pont	5 , 114 ms
 PLAYER 1 vs PLAYER 2	3 , 2 pont	4 , 5 ms
 ŐÉA vs ADA	2 , 4 pont	6 , 18 ms
